@@ -4,8 +4,6 @@ need api for weather of the nasa location
 https://api.openweathermap.org/data/2.5/weather?q=${city},${state},${country},&units=imperial&appid=b4a8249fdb18e85af658ae914f292e78
 user will input state
 */
-//Mark helped//
-//House Moses!!!!//
 const url1 = `https://data.nasa.gov/resource/gvk9-iz74.json`
 
 fetch(url1)
